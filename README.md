@@ -18,3 +18,7 @@ This project is a stock analysis tool that helps users find stocks based on both
 * Sentiment Analysis: For each stock, the tool retrieves recent news articles and analyzes the sentiment (positive or negative) using TextBlob.
 * Stock Ranking: The stocks are ranked based on a weighted score combining their sentiment and performance over the last month.
 * Results: The top stocks are displayed, showing the company name, stock ticker, price per share, number of shares you can buy, and the overall score
+
+---
+
+This project is part of my ePortfolio. [Click here to explore more projects and learn about my work.](https://github.com/dylanpatel78/dylan-patel-ePortfolio)
